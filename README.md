@@ -2,7 +2,7 @@
 
 ## Open Source Projects
 ### [Visualize-Spotify](https://github.com/jiyoonee/VisualizeSpotify)
-A React web application that uses the Spotify Web API to visualize music preferences. It also provides a tinder-esque functionality that allows you to swipe through recommended songs and see in real-time its stats as well as how it affects your global music preferences via track analytics.
+A React web application that uses the Spotify Web API to visualize music preferences. It also provides a tinder-esque functionality that allows you to swipe through recommended songs and see in real-time its stats as well as how it affects your global music preferences via track analytics. Documentation can be found [here](https://jiyoonee.github.io/VisualizeSpotify/).
 
 ---
 
