@@ -1,5 +1,6 @@
 title: Julie Song
 description: Software Engineer and AI enthusaist | CS @ Columbia
+logo: logo/pic.JPG
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-octicons
